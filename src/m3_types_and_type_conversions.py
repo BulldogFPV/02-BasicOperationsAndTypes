@@ -98,3 +98,4 @@ num = 26.78
 print(type(num))
 result = int(num)
 print(result)
+print(type(result))
